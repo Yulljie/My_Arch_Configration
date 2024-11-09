@@ -1,5 +1,5 @@
 ## Yulljie's Arch Linux Configration
-it's simple,mainly focuses on hyprland
+it's simple,mainly focuses on hyprland  
 No more edit.
 
 ### Dependences
