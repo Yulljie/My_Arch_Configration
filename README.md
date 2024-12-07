@@ -3,5 +3,6 @@ it's simple,mainly focuses on hyprland
 No more edit.
 
 ### Dependences
-Hyprland Hypr Hyprlock Hyprpaper Sway kitty foot nautilus dolphin pavucontrol waybar wofi fcitx5 
+Hyprland Hypr Hyprlock Hyprpaper Sway kitty foot nautilus dolphin pavucontrol waybar wofi fcitx5 ...
+and more???
 
