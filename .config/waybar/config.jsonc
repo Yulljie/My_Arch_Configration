@@ -28,6 +28,7 @@
         "keyboard-state",
         "sway/language",
         "battery",
+	"disk",
         "battery#bat2",
         "clock",
         "tray",
@@ -118,6 +119,11 @@
     "cpu": {
         "format": "{usage}% ",
         "tooltip": false
+    },
+    "disk": {
+        "interval": 30,
+        "format": "{percentage_used}% 🗁",
+        "path": "/"
     },
     "memory": {
         "format": "{}% "
