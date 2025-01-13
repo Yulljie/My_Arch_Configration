@@ -2,7 +2,12 @@
 it's simple,mainly focuses on hyprland  
 No more edit.
 
-### Dependences
-Hyprland Hypr Hyprlock Hyprpaper Sway kitty foot nautilus dolphin pavucontrol waybar wofi fcitx5 ...
-and more???
+### Window Managers
+Hyprland(main),Sway,Hypr
 
+### notification
+Dunst
+
+### Hyprland.conf depends on ...
+hyprlock hyprpaper kitty foot nautilus dolphin waybar wofi fcitx5 ...
+And more???
